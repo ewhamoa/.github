@@ -30,6 +30,14 @@
   ![Static Badge](https://img.shields.io/badge/ANGULAR-%230F0F11?style=for-the-badge&logo=ANGULAR&logoColor=white) -->
   
   ### AI
+  ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Matplotlib-%23000000?style=for-the-badge)
+  
   ### Front-end
   ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
