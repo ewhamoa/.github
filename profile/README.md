@@ -13,7 +13,7 @@
 > **이화모아**는 동아리나 학회에 지원하고자 하는 이화인들을 위해 에브리타임에 올라온 동아리 모집글들을 소속, 주제, 가입 가능 학번 등 다양한 필터링을 통한 검색 기능을 제공하는 서비스입니다. 저희 **TEAM 톤온톤**은 모든 이화인이 자신에게 필요한 동아리를 쉽게 찾고, 쉽게 지원하게 되길 소망합니다.
 <div align="center">
   
-  |[전혜준]()|[임나은](https://github.com/eunkr82)|[유예송](https://github.com/pipiyuye)|[박연수](https://github.com/piaoyanxiu)|[김겨레](https://github.com/gyesswhat)|
+  |[전혜준](https://github.com/jhjjesus)|[임나은](https://github.com/eunkr82)|[유예송](https://github.com/pipiyuye)|[박연수](https://github.com/piaoyanxiu)|[김겨레](https://github.com/gyesswhat)|
   |:---:|:---:|:---:|:---:|:---:|
   |<img src="https://ifh.cc/g/7pbbTJ.jpg" width="100"/>|<img src="https://avatars.githubusercontent.com/u/122524310?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/u/128354796?v=4" width="100">|<img src="https://avatars.githubusercontent.com/u/135508811?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/u/141820077?v=4" width="100"/>|
   |PM|UI/UX|AI|FE|BE|
