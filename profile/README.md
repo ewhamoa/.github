@@ -1,3 +1,5 @@
+<img src="https://ewhamoa-image-bucket.s3.ap-northeast-2.amazonaws.com/Slide%2016_9%20-%201.png"/>
+
 <div align="center">
   
   # 지원할 동아리를 찾고 있다면, 이화모아
