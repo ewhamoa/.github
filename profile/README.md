@@ -23,6 +23,23 @@
   |PM|UI/UX|AI|FE|BE|
 </div>
 
+## ☘️ 기능 소개 
+
+
+## 🍀 협업 과정
+
+* **Notion, Dicord를 사용한 업무 진행상황 공유 + 회의**
+  * <a href="https://discord.com/channels/1211881244141551616/1211881244141551619">🔗 Discord 서버</a>를 이용해 회의하고, 이슈 발생 시 소통을 통해 빠르게 대응했습니다
+  * <a href="https://team-tone-on-tone.notion.site/cd783e93da7a4daf9d964a6b13a7bae8?v=8ad772c8f1c54b2cbfdd24e950f2aeef"/>🔗 Notion 회의록</a>을 작성해 회의 내용을 언제든 확인할 수 있도록 했습니다
+  * 지속적인 소통이 필수적인 FE/BE 직무는 업무 진행상황을 Notion Database로 공유했습니다 (<a href="https://team-tone-on-tone.notion.site/60e7a101d88049189252142d4130d23b?v=6b67862298524e34aa58a4fd65d6f099&pvs=4">🔗FE</a>, <a href="https://team-tone-on-tone.notion.site/f14a071fd09748aa94f8e837c4e199ce?pvs=4">🔗BE</a>)
+* **UIUX/FE 원활한 소통을 위한 Description 작성**
+  * <a href="https://www.figma.com/file/i6DhFln34F191P3qyYYBoU/TEAM-%ED%86%A4%EC%98%A8%ED%86%A4?type=design&node-id=2487%3A2&mode=design&t=dYynPbfJoEDqJmBX-1">🔗 Figma Decription page</a>에 각 요소의 설명과 Event/Action define, 컬러 코드 등을 명시해 디자인이 명확히 반영되도록 했습니다
+* **FE/BE 원활한 소통을 위한 API 명세서 공동 작성**
+  *  주기능/부가기능 정의가 끝난 후, 빠른 소통을 위해 FE/BE 직무는 바로 <a href="https://docs.google.com/spreadsheets/d/1NQNVNIqZIxmdE8fUVJMCxag1gmKClhpjbpHTTpKZlcU/edit#gid=0">🔗 API 명세서</a> 공동 작성을 시작했습니다
+  *  추가된 기능은 [2차 기능]/[3차 기능] 등으로 표시해 업무의 우선순위를 확실히 했습니다
+
+
+
 ## 🧩 기술 스택
 <div align="center">
 
