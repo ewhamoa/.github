@@ -9,7 +9,7 @@
   <a href="https://www.figma.com/file/i6DhFln34F191P3qyYYBoU/와이어프레임-작업?type=design&node-id=0-1&mode=design&t=UA5RvhmlVs60T8Nj-0">![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)</a>
   
   
-  <a href="">![Static Badge](https://img.shields.io/badge/%EC%B5%9C%EC%A2%85%20%EB%B0%B0%ED%8F%AC%20%EC%84%9C%EB%B2%84-EWHAMOA%20%EC%9D%B4%ED%99%94%EB%AA%A8%EC%95%84-%2316A085?style=for-the-badge&labelColor=%23F4D03F)</a>
+  <a href="https://ewha-moa.vercel.app/">![Static Badge](https://img.shields.io/badge/%EC%B5%9C%EC%A2%85%20%EB%B0%B0%ED%8F%AC%20%EC%84%9C%EB%B2%84-EWHAMOA%20%EC%9D%B4%ED%99%94%EB%AA%A8%EC%95%84-%2316A085?style=for-the-badge&labelColor=%23F4D03F)</a>
 
 </div>
 
