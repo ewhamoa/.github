@@ -7,7 +7,9 @@
   <a href="https://team-tone-on-tone.notion.site/cd783e93da7a4daf9d964a6b13a7bae8?v=8ad772c8f1c54b2cbfdd24e950f2aeef">![Static Badge](https://img.shields.io/badge/%ED%9A%8C%EC%9D%98%EB%A1%9D-%2300B295?style=for-the-badge)</a>
   <a href="https://docs.google.com/spreadsheets/d/1NQNVNIqZIxmdE8fUVJMCxag1gmKClhpjbpHTTpKZlcU/edit#gid=0">![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20API%20%EB%AA%85%EC%84%B8%EC%84%9C-%23064789?style=for-the-badge)</a>
   <a href="https://www.figma.com/file/i6DhFln34F191P3qyYYBoU/와이어프레임-작업?type=design&node-id=0-1&mode=design&t=UA5RvhmlVs60T8Nj-0">![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)</a>
-  <a href="">![Static Badge](https://img.shields.io/badge/%EC%9D%B4%ED%99%94%EB%AA%A8%EC%95%84%20EWHAMOA-%2316A085?style=for-the-badge)</a>
+  
+  
+  <a href="">![Static Badge](https://img.shields.io/badge/%EC%B5%9C%EC%A2%85%20%EB%B0%B0%ED%8F%AC%20%EC%84%9C%EB%B2%84-EWHAMOA%20%EC%9D%B4%ED%99%94%EB%AA%A8%EC%95%84-%2316A085?style=for-the-badge&labelColor=%23F4D03F)</a>
 
 </div>
 
@@ -56,4 +58,12 @@
 </div>
 <br>
 
-<!-- ## 🎨 Color Scheme -->
+## 🎨 Color Scheme
+
+<div align="center">
+
+  |<img src="https://ewhamoa-image-bucket.s3.ap-northeast-2.amazonaws.com/Rectangle%201.png" width="200"/>|<img src="https://ewhamoa-image-bucket.s3.ap-northeast-2.amazonaws.com/Rectangle%202.png" width="200"/>|  
+  |:---:|:---:| 
+  | **#16A085** | **#F4D03F** |  
+
+</div>
